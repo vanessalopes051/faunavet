@@ -1,5 +1,5 @@
 # FAUNAVET
-Criação de identidade visual e protótipos de tela para um plano de saúde veterinário
+Criação de identidade visual e protótipos de tela para um plano de saúde veterinário. <br>
 Veja: https://vanessalopes051.github.io/faunavet/
 
 <br>
