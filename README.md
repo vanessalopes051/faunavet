@@ -10,21 +10,24 @@ Desenvolver protótipos de tela de um aplicativo de plano de saúde para pets, c
   <ul>
     <li>Figma: para os protótipos</li>
     <li>Inkscape: para criação da logo</li>
-    <lt>Trello: para planejamente de atividades</lt>
+    <li>Trello: para planejamente de atividades</li>
   </ul>
   <br>
-<h4>Funcionalidade</h4>
+  
+<h2>Funcionalidade</h2>
 <ul>
   <li>Buscar Veterinário</li>
   <li>Cadastrar pets</li>
-  <li>Agendamento de consultas</li>
   <li>Cadastro de veterinários</li>
-  <li>Etc</li>
+  <li>Agendamento de consultas</li>
+  <li>Avaliar consultas</li>
+  <li>Visualizar prontuário digital</li>
 </ul>
 <br>
 <h2>Identidade Visual</h2>
 <h4>Naming</h4>
 FAUNA + VET = FAUNAVET
+<br>
 A proposta do aplicativo é abranger não apenas animais domésticos, mas também animais silvestres de pequeno porte e aves. Com isso em mente, o nome foi cuidadosamente escolhido para refletir essa ampla variedade de espécies atendidas.
 <br>
 <h4>Logo</h4>
